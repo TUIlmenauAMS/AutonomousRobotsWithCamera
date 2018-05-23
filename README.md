@@ -1,4 +1,4 @@
-#Autonomous Robot Control with Camera
+# Autonomous Robot Control with Camera
 
 These programs implement an autonomous robot control using a camera on a Raspberry Pi 2 or 3. The robot can be a Roomba vacuum robot, or a smaller Pimoroni Raspberry Pi STS robot. 
 The programs lets the robot drive a random walk, and computes the apparent optical "collision speed" with an object in front from the camera video. If it detects an approaching collision, it turns right by a more or less random angle around 90 degrees, to avoid the collision. It uses a somewhat random angle to avoid getting stuck in tight places.
