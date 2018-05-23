@@ -1,4 +1,3 @@
-
 #Autonomous Robot Control with Camera
 
 These programs implement an autonomous robot control using a camera on a Raspberry Pi 2 or 3. The robot can be a Roomba vacuum robot, or a smaller Pimoroni Raspberry Pi STS robot. 
@@ -17,14 +16,15 @@ The programs should work for both, Python2 and Python3. They both use a USB Webc
 The video shows the Pimoroni Raspberry Pi STS robot, controlled by pihatsts_colldet3hv.py in action.
 
 The programs need the opencv library, to be installed with:
-sudo pip3 install opencv-python
+* sudo pip3 install opencv-python
 
 The roomba*.py needs the serial library, to be installed with:
-sudo apt install python3-serial
+* sudo apt install python3-serial
 
 The pihats*.py program needs the explorerhat library, to be installed with:
-sudo pip3 install explorerhat
-and sudo apt-get install python3-smbus
+* sudo pip3 install explorerhat
+and 
+* sudo apt-get install python3-smbus
 
 Gerald Schuller, May 2018.
 
