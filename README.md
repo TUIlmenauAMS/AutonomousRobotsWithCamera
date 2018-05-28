@@ -13,7 +13,7 @@ For the Pimoroni Raspberry Pi STS robot, the motor cabling has the be such that 
 
 The programs should work for both, Python2 and Python3. They both use a USB Webcam as camera input.
 
-The video shows the Pimoroni Raspberry Pi STS robot, controlled by pihatsts_colldet3hv.py in action.
+The video shows the Pimoroni Raspberry Pi STS robot, controlled by pihatsts_colldet3hv.py in action, and the picture below the Roomba with Raspberry Pi and USB Video Camera.
 
 The programs need the opencv library, to be installed with:
 * sudo pip3 install opencv-python
@@ -32,5 +32,7 @@ The Roomba serial interface is also described here:
 http://www.robotappstore.com/files/KB/Roomba/Roomba_SCI_Spec_Manual.pdf
 
 Gerald Schuller, May 2018.
+
+![Picture of Roomba with Raspberry Pi and USB Video Camera](roombaWithRaspi.JPG "Picture of Roomba with Raspberry Pi and USB Video Camera")
 
 
