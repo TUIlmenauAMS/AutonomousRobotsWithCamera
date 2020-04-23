@@ -8,6 +8,8 @@ It also computes the the sum of magnitudes of the high frequency coefficients, t
 
 This approach has the advantage that it is simple and very efficient to compute, such that it can also run on a Raspberry Pi in real time, unlike for instance a "real" optical flow (https://en.wikipedia.org/wiki/Optical_flow).
 
+The program "videorecdisp_dctcepstrum.py" demonstrates it using a live webcam image. It displays the resulting DCT ceptrum in a window, and on top of it displays the distance of the cepstrum centroid to the upper left hand corner (collspeedfilt). Moving a hand closer to the camera you can see the number increase.
+
 The program "pihatsts_colldet3hv.py" is for the Pimoroni Raspberry Pi STS robot, the program "roombacolldet3hv.py" for the Roomba robot.
 For the Pimoroni Raspberry Pi STS robot, the motor cabling has the be such that it goes straight ahead right after start-up, and only turns left after collision detection (although, turning right wouldn't really make a functional difference).
 
