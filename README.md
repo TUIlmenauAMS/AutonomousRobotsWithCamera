@@ -29,9 +29,11 @@ and
 * sudo apt-get install python3-smbus
 
 For the Roomba robot, a serial interface needs to be build, whose construction is described here:
+
 https://www.tu-ilmenau.de/mt-ams/forschung/aktuelle-projekte/raspberry-pi-serial-interface-for-roomba-robots/
 
 The Roomba serial interface is also described here:
+
 http://www.robotappstore.com/files/KB/Roomba/Roomba_SCI_Spec_Manual.pdf
 
 Gerald Schuller, May 2018.
