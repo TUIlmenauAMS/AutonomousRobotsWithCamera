@@ -35,8 +35,12 @@ http://www.robotappstore.com/files/KB/Roomba/Roomba_SCI_Spec_Manual.pdf
 
 Gerald Schuller, May 2018.
 
-![Picture of Roomba with Raspberry Pi and USB Video Camera](roombaWithRaspi.JPG "Picture of Roomba with Raspberry Pi and USB Video Camera")
 Videos of the Roomba robot with camera:
+
 https://drive.google.com/file/d/1pS54hSFFQ24kd8wk4sRZnbPHXC9RTBCF/view
+
 https://drive.google.com/file/d/1HGejeGESDbb9LO_kcmTFR79ZWs7lZS9j/view
+
+![Picture of Roomba with Raspberry Pi and USB Video Camera](roombaWithRaspi.JPG "Picture of Roomba with Raspberry Pi and USB Video Camera")
+
 
