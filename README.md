@@ -42,7 +42,7 @@ Avoiding a wall:
 
 https://drive.google.com/file/d/1pS54hSFFQ24kd8wk4sRZnbPHXC9RTBCF/view
 
-Avoiding cables and poles:
+Avoiding cables and poles, which vision based systems allow, but ultround approachen would not be sensitive enough for:
 
 https://drive.google.com/file/d/1HGejeGESDbb9LO_kcmTFR79ZWs7lZS9j/view
 
