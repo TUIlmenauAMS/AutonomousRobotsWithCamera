@@ -38,7 +38,11 @@ http://www.robotappstore.com/files/KB/Roomba/Roomba_SCI_Spec_Manual.pdf
 
 Videos of the Roomba robot with camera:
 
+Avoiding a wall:
+
 https://drive.google.com/file/d/1pS54hSFFQ24kd8wk4sRZnbPHXC9RTBCF/view
+
+Avoiding cables and poles:
 
 https://drive.google.com/file/d/1HGejeGESDbb9LO_kcmTFR79ZWs7lZS9j/view
 
